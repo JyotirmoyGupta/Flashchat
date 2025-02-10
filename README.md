@@ -37,4 +37,4 @@ The chat application provides an engaging and user-friendly interface for commun
 
 This real-time chat application demonstrates how to build a fully functional, secure, and interactive chat platform using ReactJS and Firebase. It offers a smooth messaging experience with real-time synchronization, making it a robust solution for seamless user communication.
 
-<img src="./3394897.jpg" alt="Chat Window" width="600" height="auto" />  
+<img src="./3394897.jpg" alt="Chat Window" width="300" height="auto" />  
